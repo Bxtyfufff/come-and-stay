@@ -17,6 +17,8 @@
 
  - [点击下载客户端](https://desktop.github.com/)
 3. github客户端使用教程
- - 
+
+ - [使用教程](https://github.com/The-net-for-weixin/come-and-stay/blob/master/Article/GitHub%20Desktop%E4%BD%BF%E7%94%A8.md)
 4. 文本编辑器下载
+
  - [notepad++下载](https://www.baidu.com/s?wd=notepad%2B%2B&rsv_spt=1&rsv_iqid=0xb91617bf0006c74a&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=2&rsv_n=2&rsv_t=5b78ZGybyx4No5volKukRJ%2FoWn8ZPy1rb4rcxtn%2BlpOyGfNuC6sl9ms%2FrFgxV%2FyB8LyZ)
