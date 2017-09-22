@@ -5,4 +5,4 @@
  
  - [<<你在网上是全裸的吗>>](http://mp.weixin.qq.com/s/wvJjOxDjo2lua4eNuSugMQ)
  
- - ![<<从今天开始好好劈柴>>](http://mp.weixin.qq.com/s/_s8d0aYYVhqkXE5HK73sPQ)
+ ![<<从今天开始好好劈柴>>](http://mp.weixin.qq.com/s/_s8d0aYYVhqkXE5HK73sPQ)
