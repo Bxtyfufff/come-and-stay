@@ -12,7 +12,7 @@
 # 使用教程
 
 1. 登入github官网注册账号
- - [请点击进行注册github账号](https://github.com/)
+ - [请点击进行注册github账号](https://github.com/join?source=login)
 2. 下载github客户端并安装
 
  - [点击下载客户端](https://desktop.github.com/)
